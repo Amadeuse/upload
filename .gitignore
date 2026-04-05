@@ -1,0 +1,9 @@
+.osp/
+
+# Uploaded files
+upload/*
+!upload/.gitkeep
+
+# OS files
+Thumbs.db
+.DS_Store
